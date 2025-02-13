@@ -381,6 +381,12 @@ acronym {
     border-top-color: #CCCCCC;
 }
 
+.table-image {
+    max-width: 50px;
+    height: auto;
+    display: inline-block; /* Crucial for margin to work horizontally */
+    margin: 0 5px; /* Adds 5px margin on left and right of each image */
+}
 
 .section-first {
     margin-top: 18px;
