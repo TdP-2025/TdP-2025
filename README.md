@@ -1,6 +1,6 @@
 # Tecniche di Programmazione (TdP)
 
-**Sito web del corso:** add here link
+**Sito web del corso:** https://tdp-2025.github.io/TdP-2025/
 
 ## Informazioni sul corso
 
