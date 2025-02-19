@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37e2b1e4-c349-4b64-8603-f164bf46bf6e" name="Changes" comment="add new lecture">
-      <change beforePath="$PROJECT_DIR$/.idea/TdP-2025.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/git_logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/people/Carlo.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/people/Francesca.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/people/Giuseppe.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tdP25_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/video_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/particles-handler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/particles.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/particlesjs-config.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +55,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "WebServerToolWindowFactoryState": "false",
     "com.codeium.enabled": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Jekyll",
     "last_opened_file_path": "/Users/giuse/Documents/TdP_24_25/TdP-2025",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -79,6 +68,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/images/people" />
     </key>
@@ -102,6 +92,7 @@
       <workItem from="1739461766854" duration="60000" />
       <workItem from="1739461907507" duration="6066000" />
       <workItem from="1739958249143" duration="994000" />
+      <workItem from="1739959253412" duration="196000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
