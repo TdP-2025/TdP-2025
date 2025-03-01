@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f12bd909-373a-4c47-97d4-e93f83c18453" name="Changes" comment="add gaetano picture">
+    <list default="true" id="f12bd909-373a-4c47-97d4-e93f83c18453" name="Changes" comment="add git link l1, add info for Lab01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sections/calendar.html" beforeDir="false" afterPath="$PROJECT_DIR$/sections/calendar.html" afterDir="false" />
     </list>
@@ -112,7 +112,8 @@
       <workItem from="1740048474111" duration="4359000" />
       <workItem from="1740144590767" duration="6000" />
       <workItem from="1740246553143" duration="1038000" />
-      <workItem from="1740394849479" duration="344000" />
+      <workItem from="1740394849479" duration="406000" />
+      <workItem from="1740847583138" duration="175000" />
     </task>
     <task id="LOCAL-00002" summary="add gaetano picture">
       <option name="closed" value="true" />
@@ -122,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740048534947</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add git link l1, add info for Lab01">
+      <option name="closed" value="true" />
+      <created>1740395224532</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740395224532</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +140,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="add gaetano picture" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gaetano picture" />
+    <MESSAGE value="add git link l1, add info for Lab01" />
+    <option name="LAST_COMMIT_MESSAGE" value="add git link l1, add info for Lab01" />
   </component>
 </project>
