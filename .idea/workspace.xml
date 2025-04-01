@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f12bd909-373a-4c47-97d4-e93f83c18453" name="Changes" comment="add git link l1, add info for Lab01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/calendar.html" beforeDir="false" afterPath="$PROJECT_DIR$/sections/calendar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -89,7 +89,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
       </set>
     </attachedChunks>
   </component>
@@ -114,6 +114,8 @@
       <workItem from="1740246553143" duration="1038000" />
       <workItem from="1740394849479" duration="406000" />
       <workItem from="1740847583138" duration="175000" />
+      <workItem from="1743005367592" duration="209000" />
+      <workItem from="1743005617407" duration="879000" />
     </task>
     <task id="LOCAL-00002" summary="add gaetano picture">
       <option name="closed" value="true" />
