@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f12bd909-373a-4c47-97d4-e93f83c18453" name="Changes" comment="add git link l1, add info for Lab01">
+    <list default="true" id="f12bd909-373a-4c47-97d4-e93f83c18453" name="Changes" comment="festa 2 giugno">
+      <change afterPath="$PROJECT_DIR$/sections/esami.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/calendar.html" beforeDir="false" afterPath="$PROJECT_DIR$/sections/calendar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/sections/header.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +116,18 @@
       <workItem from="1740246553143" duration="1038000" />
       <workItem from="1740394849479" duration="406000" />
       <workItem from="1740847583138" duration="175000" />
+      <workItem from="1745828945710" duration="74000" />
+      <workItem from="1746022191786" duration="551000" />
+      <workItem from="1746276600505" duration="132000" />
+      <workItem from="1746455082439" duration="764000" />
+      <workItem from="1746955698918" duration="2126000" />
+      <workItem from="1746960785152" duration="139000" />
+      <workItem from="1747916394726" duration="713000" />
+      <workItem from="1747994375624" duration="214000" />
+      <workItem from="1748009721377" duration="30000" />
+      <workItem from="1748258262351" duration="116000" />
+      <workItem from="1748272018288" duration="168000" />
+      <workItem from="1753173065163" duration="744000" />
     </task>
     <task id="LOCAL-00002" summary="add gaetano picture">
       <option name="closed" value="true" />
@@ -131,7 +145,111 @@
       <option name="project" value="LOCAL" />
       <updated>1740395224532</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add info for week 9 and 10">
+      <option name="closed" value="true" />
+      <created>1745760707944</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745760707944</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add git link NetworkX L25">
+      <option name="closed" value="true" />
+      <created>1745829010730</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745829010730</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add git link L27">
+      <option name="closed" value="true" />
+      <created>1746022975199</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746022975199</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add git link L28">
+      <option name="closed" value="true" />
+      <created>1746276695140</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746276695140</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix date">
+      <option name="closed" value="true" />
+      <created>1746455241201</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746455241201</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add rows in table for all remaining weeks">
+      <option name="closed" value="true" />
+      <created>1746956971985</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746956971985</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add flight delays git link">
+      <option name="closed" value="true" />
+      <created>1746960829990</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746960829990</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add links week 12">
+      <option name="closed" value="true" />
+      <created>1747916505404</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1747916505404</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add links week 13">
+      <option name="closed" value="true" />
+      <created>1747994563217</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1747994563217</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix link lab 13">
+      <option name="closed" value="true" />
+      <created>1748009745635</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1748009745635</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix description L38">
+      <option name="closed" value="true" />
+      <created>1748258307217</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1748258307217</updated>
+    </task>
+    <task id="LOCAL-00015" summary="festa 2 giugno">
+      <option name="closed" value="true" />
+      <created>1748272109096</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1748272109096</updated>
+    </task>
+    <task id="LOCAL-00016" summary="festa 2 giugno">
+      <option name="closed" value="true" />
+      <created>1748272162966</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1748272162966</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +259,18 @@
     <MESSAGE value="update" />
     <MESSAGE value="add gaetano picture" />
     <MESSAGE value="add git link l1, add info for Lab01" />
-    <option name="LAST_COMMIT_MESSAGE" value="add git link l1, add info for Lab01" />
+    <MESSAGE value="add info for week 9 and 10" />
+    <MESSAGE value="add git link NetworkX L25" />
+    <MESSAGE value="add git link L27" />
+    <MESSAGE value="add git link L28" />
+    <MESSAGE value="fix date" />
+    <MESSAGE value="add rows in table for all remaining weeks" />
+    <MESSAGE value="add flight delays git link" />
+    <MESSAGE value="add links week 12" />
+    <MESSAGE value="add links week 13" />
+    <MESSAGE value="fix link lab 13" />
+    <MESSAGE value="fix description L38" />
+    <MESSAGE value="festa 2 giugno" />
+    <option name="LAST_COMMIT_MESSAGE" value="festa 2 giugno" />
   </component>
 </project>
